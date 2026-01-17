@@ -45,4 +45,4 @@ You can view this project live (see the demo link above) or run it locally on yo
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/MohamedFarook-H/calculator.git](https://github.com/MohamedFarook-H/calculator.git)
+   git clone https://github.com/MohamedFarook-H/calculator.git
